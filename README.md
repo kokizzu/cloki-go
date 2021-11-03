@@ -1,8 +1,11 @@
-<img src='https://user-images.githubusercontent.com/1423657/50455638-a8c41580-094f-11e9-8b43-dd0a9ae0f622.png' width=100>
+<img src='https://user-images.githubusercontent.com/1423657/139434383-98287329-74ce-4061-aabb-a19e500a986c.png' width=250>
 
 # cLoki-go
 
 ### like Loki, but for Clickhouse.
+
+- This is a WIP fork. For active development & stable features please use [cloki](https://cloki.org)
+
 
 Super experimental, fully functional [Loki](https://github.com/grafana/loki) API emulator in GO for [Clickhouse](https://clickhouse.yandex/)<br/>
 APIs are compatible with [Grafana Explore](http://docs.grafana.org/features/explore/) and [paStash](https://github.com/sipcapture/paStash/wiki/Example:-Loki) for logs ingestion
